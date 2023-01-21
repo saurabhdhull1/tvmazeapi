@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tvmazeapi/static/css/main.35f2789d.css",
+    "main.js": "/tvmazeapi/static/js/main.1c9d4e10.js",
+    "index.html": "/tvmazeapi/index.html",
+    "main.35f2789d.css.map": "/tvmazeapi/static/css/main.35f2789d.css.map",
+    "main.1c9d4e10.js.map": "/tvmazeapi/static/js/main.1c9d4e10.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35f2789d.css",
+    "static/js/main.1c9d4e10.js"
+  ]
+}
